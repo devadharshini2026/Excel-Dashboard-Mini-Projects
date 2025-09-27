@@ -49,24 +49,7 @@ The goal of this project is to demonstrate **Excel skills in data aggregation, v
 
 ---
 
-## **Screenshot**
-*(Add your screenshot in `screenshots/sales_dashboard.png`)*  
-
-![Sales Dashboard](screenshots/sales_dashboard.png)
-
----
-
-## **Optional Enhancements**
-- Add monthly growth comparison (YoY or MoM)  
-- Include dynamic charts for product categories  
-- Connect dashboard to a live dataset for real-world application  
-
----
-
 ## **Conclusion**
 This dashboard demonstrates practical **Excel skills** for data analysis and visualization. It’s a **ready-to-show portfolio project** for freshers aiming for **data analyst or business intelligence roles**.
 
 ---
-
-## **License**
-This project is free to use for learning and portfolio purposes.
